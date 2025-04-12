@@ -4,6 +4,37 @@
   
     
     <entry>
+      <title>云顶之弈之我是up主</title>
+      <link href="/2025/04/12/%E4%BA%91%E9%A1%B6%E4%B9%8B%E5%BC%88%E4%B9%8B%E6%88%91%E6%98%AFup%E4%B8%BB/"/>
+      <url>/2025/04/12/%E4%BA%91%E9%A1%B6%E4%B9%8B%E5%BC%88%E4%B9%8B%E6%88%91%E6%98%AFup%E4%B8%BB/</url>
+      
+        <content type="html"><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><blockquote><p> 易清：在疫情期间想写小说出的笔名谐音（yiqing），本网站创作初期，自学python中想要一个属于自己的blog</p></blockquote><h2 id="我是up主"><a href="#我是up主" class="headerlink" title="我是up主"></a>我是up主</h2><blockquote><p>由于自制视频对与一个没有做过的小白难度较大，也许是运气的原因，今年在家休息到2025&#x2F;4&#x2F;12今天，中间学驾照由于学习中紧张过度导致科目三挂科，但是仍不妨碍我剪辑烂片给各位。现在都比较浮躁，加上没有那么多的时间去娱乐，说到这里不如你们可以组建一个临时游戏组（QQ、微信）这两个比较热门的社交软件，群名游戏搭子例如：QQ用来作为长期搭子，微信作为短期搭子。你们需要就在文章末尾评论吧！</p></blockquote><h2 id="爱好"><a href="#爱好" class="headerlink" title="爱好"></a>爱好</h2><blockquote><p> 我们都一样<br>$$<br>学无止境          \ %无间隔<br>听歌,10年以上酷狗        \ %小空格<br>游戏;10年以上穿越火线        \ %中空格<br>吃饭\ 注意按时饮食        \ %大空格<br>喝酒\quad 遇人    \ %真空格<br>代码\qquad 在家有空就写      %双真空格<br>$$</p></blockquote><h2 id="平台账户"><a href="#平台账户" class="headerlink" title="平台账户"></a>平台账户</h2><blockquote><p> 缘分让我们相遇<br>$$<br>\begin{bmatrix}<br> B站：<a href="https://www.bilibili.com/">https://www.bilibili.com/</a> &amp; 云顶之弈 &amp; 风归絮 \<br> 公众号：<a href="https://mp.weixin.qq.com/">https://mp.weixin.qq.com/</a> &amp; 文章 &amp; YiQing易清 \<br> 本网站 &amp; 文章 &amp; 易清<br>\end{bmatrix}\tag{欢迎各位}<br>$$</p></blockquote><h2 id="八-图片"><a href="#八-图片" class="headerlink" title="八 图片"></a>八 图片</h2><blockquote><p><img src="https://img1.baidu.com/it/u=251990810,2623088654&fm=253&fmt=auto&app=138&f=JPEG?w=889&h=500" alt="云顶之弈"> tips：ie浏览器禁用</p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> 娱乐 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 云顶之弈 </tag>
+            
+            <tag> up主 </tag>
+            
+            <tag> 自媒体 </tag>
+            
+            <tag> 云顶风归絮 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Mermaid</title>
       <link href="/2025/02/16/Mermaid/"/>
       <url>/2025/02/16/Mermaid/</url>
@@ -71,6 +102,33 @@
     
     
     <entry>
+      <title>Test</title>
+      <link href="/2024/04/10/test/"/>
+      <url>/2024/04/10/test/</url>
+      
+        <content type="html"><![CDATA[<h1 id="这个是用来测试-Tag-hide"><a href="#这个是用来测试-Tag-hide" class="headerlink" title="这个是用来测试 Tag-hide"></a>这个是用来测试 Tag-hide</h1><h2 id="ONE"><a href="#ONE" class="headerlink" title="ONE"></a>ONE</h2><span class="hide-inline"><button type="button" class="hide-button" style="background-color: bg;color: color">display  </button><span class="hide-content">content</span></span><p>哪个英文字母最酷？ <span class="hide-inline"><button type="button" class="hide-button" style="background-color: #FF7242;color: #fff">查看答案  </button><span class="hide-content">因为西装裤(C装酷)</span></span></p><p>门里站着一个人? <span class="hide-inline"><button type="button" class="hide-button" style="">Click  </button><span class="hide-content">闪</span></span></p><h3 id="TWO"><a href="#TWO" class="headerlink" title="TWO"></a>TWO</h3><div class="hide-block"><button type="button" class="hide-button" style="background-color: bg;color: color">display    </button><div class="hide-content"><p>content</p></div></div><p>查看答案</p><div class="hide-block"><button type="button" class="hide-button" style="">查看答案    </button><div class="hide-content"><p>傻子，怎么可能有答案</p></div></div><h4 id="THREE"><a href="#THREE" class="headerlink" title="THREE"></a>THREE</h4><details class="toggle" style="border: 1px solid bg"><summary class="toggle-button" style="background-color: bg;color: color">display</summary><div class="toggle-content"><p>content</p></div></details><details class="toggle" ><summary class="toggle-button" style="">Butterfly安装方法</summary><div class="toggle-content"><p>在你的博客根目录里</p><p>git clone -b master <a href="https://github.com/jerryc127/hexo-theme-butterfly.git">https://github.com/jerryc127/hexo-theme-butterfly.git</a> themes&#x2F;Butterfly</p><p>如果想要安装比较新的 dev 分支，可以</p><p>git clone -b dev <a href="https://github.com/jerryc127/hexo-theme-butterfly.git">https://github.com/jerryc127/hexo-theme-butterfly.git</a> themes&#x2F;Butterfly</p></div></details>]]></content>
+      
+      
+      <categories>
+          
+          <category> 测试 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 好奇 </tag>
+            
+            <tag> 兴趣 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>软件合集</title>
       <link href="/2024/04/10/%E8%BD%AF%E4%BB%B6%E5%90%88%E9%9B%86/"/>
       <url>/2024/04/10/%E8%BD%AF%E4%BB%B6%E5%90%88%E9%9B%86/</url>
@@ -94,33 +152,6 @@
             <tag> 应用 </tag>
             
             <tag> 实用 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Test</title>
-      <link href="/2024/04/10/test/"/>
-      <url>/2024/04/10/test/</url>
-      
-        <content type="html"><![CDATA[<h1 id="这个是用来测试-Tag-hide"><a href="#这个是用来测试-Tag-hide" class="headerlink" title="这个是用来测试 Tag-hide"></a>这个是用来测试 Tag-hide</h1><h2 id="ONE"><a href="#ONE" class="headerlink" title="ONE"></a>ONE</h2><span class="hide-inline"><button type="button" class="hide-button" style="background-color: bg;color: color">display  </button><span class="hide-content">content</span></span><p>哪个英文字母最酷？ <span class="hide-inline"><button type="button" class="hide-button" style="background-color: #FF7242;color: #fff">查看答案  </button><span class="hide-content">因为西装裤(C装酷)</span></span></p><p>门里站着一个人? <span class="hide-inline"><button type="button" class="hide-button" style="">Click  </button><span class="hide-content">闪</span></span></p><h3 id="TWO"><a href="#TWO" class="headerlink" title="TWO"></a>TWO</h3><div class="hide-block"><button type="button" class="hide-button" style="background-color: bg;color: color">display    </button><div class="hide-content"><p>content</p></div></div><p>查看答案</p><div class="hide-block"><button type="button" class="hide-button" style="">查看答案    </button><div class="hide-content"><p>傻子，怎么可能有答案</p></div></div><h4 id="THREE"><a href="#THREE" class="headerlink" title="THREE"></a>THREE</h4><details class="toggle" style="border: 1px solid bg"><summary class="toggle-button" style="background-color: bg;color: color">display</summary><div class="toggle-content"><p>content</p></div></details><details class="toggle" ><summary class="toggle-button" style="">Butterfly安装方法</summary><div class="toggle-content"><p>在你的博客根目录里</p><p>git clone -b master <a href="https://github.com/jerryc127/hexo-theme-butterfly.git">https://github.com/jerryc127/hexo-theme-butterfly.git</a> themes&#x2F;Butterfly</p><p>如果想要安装比较新的 dev 分支，可以</p><p>git clone -b dev <a href="https://github.com/jerryc127/hexo-theme-butterfly.git">https://github.com/jerryc127/hexo-theme-butterfly.git</a> themes&#x2F;Butterfly</p></div></details>]]></content>
-      
-      
-      <categories>
-          
-          <category> 测试 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 好奇 </tag>
-            
-            <tag> 兴趣 </tag>
             
         </tags>
       
